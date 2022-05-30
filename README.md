@@ -1,4 +1,4 @@
-# ITCase Django Test Task
+# Django Test Task
 
 ## Тестовое задание
 
